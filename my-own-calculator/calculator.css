@@ -1,0 +1,67 @@
+body {
+    background-color: blanchedalmond;
+}
+
+.container {
+    background-color: white;
+    height: 400px;
+    width: 400px;
+    margin: 70px auto;
+}
+
+h1 {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.sonuc {
+   
+    height: 100px;
+    border-bottom: 1px black solid;
+    border: 3px solid black;
+}
+
+.rakam1 {
+    
+    padding-right: 50px;
+}
+
+.numbers {
+    
+    padding-top: 0px;
+    height: 300px;
+}
+
+table tr td{
+    width: 100px;
+    height: 66px;
+    text-align: center;
+}
+
+.container {
+    border: 2px red solid;
+}
+
+.islem1 {
+    
+    padding-right: 50px;
+}
+
+.rakam2 {
+    
+    padding-right: 50px;
+}
+
+.genelsonuc {
+    border-top: 1px solid black;
+    padding-right: 50px;
+}
+
+.sonuc p {
+    margin:5px 10px;
+    text-align: right;
+    font-weight: 900;
+
+}
+
+
+
